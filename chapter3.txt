@@ -1,0 +1,31 @@
+So far we’ve learned about numbers and strings - до сих пор мы учили о числах и строках
+But numbers and strings are kind of boring - Но номера и строки какие-то скучновытые
+This list is pretty awkward to use, - этот список довольно неудобно использовать
+the page is too narrow. - страница очень узкая
+but luckily that’s - к счастью что
+An index is the number that corresponds to (or matches) the spot - Индекс - это номер который соотвествует (или совпадает) c точкой
+if you just wanted to show someone your absolute favorite dinosaur, если ты хочешь показать кому-нибудь твоего безусловного фаворитного динозавра
+names ordered according to the indexes. - имена упорядоченные в соответствии с их индексами
+Chrome helpfully tells you how - Хром любезно говорит тебе как
+returns the entire inner array - вернёт полный внутренний массив
+Let’s try it out - давайте испробуем это
+The pop method can be particularly handy - Pop метод может быть очень удобным
+but the element comes off the beginning instead - но элемент убирается с начала
+a fancy computer science word for joining two values together - придуманное слово информатики для объединния двух значений вместе
+furry animals - пушистые животные
+scaly animals - чешуйчатые животные
+Even though - даже если
+get added to the very end of the new array - добавлены в самый конец нового массива
+indexOf
+is like the reverse of using square brackets to get a value at a particular index - это похоже на обратное использование квадратных скобок чтобы получить значение исходя их конкретного индекса
+Lizard - ящерица
+a hyphen with spaces on either side - дефис с пробелами на каждой из сторон
+which would be really annoying to type out - что будет действительно раздражать чтобы записать
+Also, this code would work only if you had exactly - Кроме этого. этот код будет работать только если ты имеешь точно только
+play around with them - развлекаться с ними
+you’ll keep a list of all the landmarks you see - ты сохранишь список всех ориентиров которые ты видел
+every time you pass a landmark - каждый раз когда ты прошёл ориентир
+stack of pancakes - стек блинов
+getting rid of everything after the decimal point - избавляется от всего после точки
+altogether and just say - в целом и просто сказать
+Creating a Random Insult Generator - Создание рандомного генератора обиды

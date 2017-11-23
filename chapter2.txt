@@ -1,0 +1,61 @@
+be whether - будь то
+using an asterisk - используя звездочку
+end of a particular Java Script command - конец конкретной JavaScript команды
+sort of like the period at the end of a sentence - вроде как (что-то типа) точки в конце предложения
+JavaScript lets you perform basic mathematical operations - Джаваскрипт позволяет тебе выполнять базовые математические операции
+8 candies - 8 конфет
+Here’s an attempt - вот попытка
+The parentheses force JavaScript to add 1 and 3 - Скобки заставляют Джаваскрипт складывать 1 и 3
+She’s throwing a party - Она устраивает (закатывает) вечеринку
+blow up a ballon - надуть воздушный шарик
+There were originally 15 people coming - Первоначально пришло 15 человек
+you can fit one thing in - ты можешь поместить одну вещь внутрь
+His face twisted up into something bitter - Лицо его перекосилось от досады,
+and he managed to spit out the words: "You're welcome." - И он всё же выдавил из себя слова - Добро пожаловать
+Setting a value is called assignment - установки значения называется назначением (или инициализацией)
+In the rest of my examples - в остальных моих примерах
+if you type age on its own - напишешь возраст самостоятельно
+they can vary - они могут варьироваться
+This slightly more complex example - Это немного более сложный пример
+because it’s easy to misspell - легко сделать орфографическую ошибку
+For example, if you accidentally - для примера, если ты случайно
+Unfortunately, JavaScript will only do exactly - К сожалению, джаваскриет делает только точно то
+you can easily figure out - ты можешь легко понять
+Or just leave out the age variable altogether - или оставить совершенно переменную возраста 
+Or might have - И может быть
+hat counts the number of high-fives you received today - сколько дай пять ты получил сегодня
+to keep track of a score in a video game - отслеживать счёт в видео-игре
+score is reduced by 3 - счёт уменьшился на 3
+So far, we’ve just been working with numbers - До сих пор мы только что работали с числами
+"Hello" and "Nick", respectively - Привет и ник, соответственно
+you might have a secret code where the message is made up of the second character of each word - ты можешь иметь секретный код, где сообщение составляет вторую букву каждого слова
+Again, notice that to get the second - ещё раз, удели внимание чтобы получить второй
+Cutting up Strings - разделение строк на куски
+To “cut off” a piece of a big string - чтобы отсечь (отделить) кусок большой строки
+which characters this retrieves - какие символы это извлекает
+Pull a slice out of this longer string - вытяни кусочек из этой продолжительной строки
+As the name suggests - как подсказывает название
+It can be confusing - Это может быть ввести в заблуждение
+to follow along with code - следовать вместе с этим кодом
+of a complicated task like this - для такого запутанного задания как это
+but some people call it “pipes, - но некоторые люди называют это трубами
+whether either one is true - будь то или одна правда
+you’re running a theme park - ты запускаешь парк развлечений
+one of the rides has a height restriction - и один из аттракционов имеет ограничение по высоте
+riders must be at least 60 inches tall - катающиеся должны быть как минимум 60 дюймов в высоту
+Most of the crumbs and dust will fall out. - Большинство этих крошек и пыли будет выпадать 
+This operator might come in handy - Этот оператор может пригодиться
+You make it easy on your friends - Ты можешь сделать это проще
+that means “equal-ish.” - это означает эквивалент
+Use this to see whether two values are the same - Используй это чтобы узнать такие же ли эти два значения
+even if one is a string and the other is a number - тогда когда один из них строка и одна переменная число
+you might be thinking to yourself - ты можешь подумать обращаясь к себе
+Because of this weirdness - из-за этой странности
+implement some JavaScript - создать некий Javascript
+They want to be able to work out whether someone is allowed into a PG-13 movie or not. - Они хотят иметь возможность решать резрешён ли кому-нибудь войти на ПГ-13 фильм или нет
+but they are accompanied by an adult - но они в сопровождении взрослого
+that don’t fit any particular mold. - которые не подходя для какой-либо конкретной формы
+when you want to deliberately say “This is empty.” - Когда ты хочешь сознательно сказать - Это пусто
+which is very occasionally helpful - что время от времени очень полезно
+Setting the variable to null would make it obvious to anyone reading the code - Установка переменной в null сделает это очевидым для кого-угодно кто читает код
+you hadn’t gotten around - у тебя не нашлось время

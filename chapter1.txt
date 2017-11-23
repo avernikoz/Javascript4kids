@@ -1,0 +1,37 @@
+you’ll build up your knowledge of JavaScript gradually - ты построишь своё знание о джаваскрипте постепенно
+Along the way, you’ll create a few games - По пути вы создадите
+to stretch your pro gramming skills - расширить свои программные скилы/
+First off, read it in order! - Прежде всего, читайте это по порядку
+a fluent writer of JavaScript. - свободно пишущий на джаваскрипте
+фnd eventually you’ll become - и в конечно итоге ты станешь
+I encourage you to type out - Я призываю вас напечатать
+Above all -  прежде всего
+you can compare your approach - ты можешь совместить свой подход
+different ways to accomplis - множество путей чтобы достичь/выполнить
+if you end up - если ты закончил
+If you come across a word - Если ты сталкнешься/встретишься со словом
+how to gain more control - как получить больше контроля
+Find the Buried Treasure! - найди погребенное сокровище
+Computers are incredibly powerful machines, - невероятно способные машины
+capable of performing amazing feats - способные совершать удивительные подвиги
+playing competitive chess - конкурентоспособно (на уровне) играть в шахматы
+But deep down computers are actually pretty dumb - Но в сущности комьютеры на самом деле очень тупые (без права голоса)
+We tell computers how to behave using computer programs - Мы говори комьютерам как вести себя с комьютерными программами
+Even worse, computers can’t understand English - ещё хуже, компьютеры не понимают Английского
+but you’ve certainly used it - но безусловно использовал это
+there are literally hundreds of programming languages - существуют буквально сотни языков программирования
+But perhaps best of all - Но возможно, лучше всего
+But isn’t JavaScript more than a glorified calculator - Но неужели джаваскрипт известен (прославлен) как калькулятор?
+Unlike our addition program - В отличии от нашей складывающей программы
+
+will take up multiple lines - будет занимать несколько строк
+If you made any typos - если ты сделал хоть какие-нибудь опечатки
+including parentheses - включая круглые скобки
+semicolons - точки с запятой
+curly brackets - фигурные скобки
+one of the trickiest parts - одна из самых сложных частей
+get the hang of it - привынуть, хорошо переносить
+In this book, we’ll go slow and steady - В этой книге мы будем идти медленно и неуклонно
+introducing new syntax little by little - вводя новый синтакс по чуть-чуть
+you can build increasingly powerful programs - ты сможешь строить всё более и более мощные программы
+unless I say otherwise - Если Я не скажу иначе
